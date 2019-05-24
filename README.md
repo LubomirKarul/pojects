@@ -1,1 +1,1 @@
-# pojects
+# snake game in c++.
